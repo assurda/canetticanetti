@@ -1,0 +1,47 @@
+img{
+    max-width: 100%;
+}
+
+body {
+    background-color: #9c9;
+    font-family: sans-serif;
+    color: black;
+}
+
+.container{
+    margin: 0 auto;
+    width: 400px;
+    max-width: 100%;
+}
+
+.card{
+    margin: 40px auto;
+    background-color: #fff;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 6px;
+    border: 3px solid #ca1e4a;
+    box-shadow: 0 0 10px #000;
+}
+
+.mt-0 {
+    margin-top: 0;
+}
+
+h1 {
+    color: teal;
+}
+
+.link {
+    display: inline-block;
+    padding: 8px 12px;
+    border-radius: 30px;
+    color: #fff;
+    background-color: #0000ff;
+    margin-right: 5px;
+}
+
+.gif {
+    display: block;
+    margin: 0 auto;
+}
